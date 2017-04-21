@@ -13,6 +13,15 @@ public class FactBook {
            "If your situation is disgusting then change  everything you do.",
            "Nothing is impossiable if you believe nothing is impossiable",
           "Showing thanks to god Makes life easy",
+           "my mistakes is my friends and family Salvation",
+           "intelligence advance society\n" +
+                   "animal lack intelligence and still advance\n" +
+                   "death propel our mind to survive\n" +
+                   "animals don't live to survive\n" +
+                   "but live forever",
+           "showing thanks to god \n" +
+                   "makes life easy"
+
 
 
 

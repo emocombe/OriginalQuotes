@@ -33,9 +33,7 @@
         </activity>
 
 
-        <meta-data
-            android:name="com.facebook.sdk.ApplicationId"
-            android:value="713280335441070" />
+
 
         <intent-filter>
             <action android:name="android.intent.action.MAIN"/>
@@ -43,21 +41,7 @@
             <category android:name="android.intent.category.DEFAULT"/>
         </intent-filter>
 
-        <activity
-            android:name=".AndroidFacebookActivity"
-            android:label="originalquotes">
-            <intent-filter>
-                <action android:name="android.intent.action.MAIN" />
 
-                <category android:name="android.intent.category.LAUNCHER" />
-            </intent-filter>
-        </activity>
-
-        <activity
-            android:name="com.facebook.FacebookActivity"
-            android:configChanges="keyboard|keyboardHidden|screenLayout|screenSize|orientation"
-            android:label="originalquotes"
-            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
 
 
     </application>

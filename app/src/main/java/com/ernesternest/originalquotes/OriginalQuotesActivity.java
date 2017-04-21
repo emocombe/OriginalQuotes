@@ -32,7 +32,7 @@ public class OriginalQuotesActivity extends AppCompatActivity {
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
 
-        FacebookSdk.sdkInitialize(getApplicationContext());
+
 
 
         setContentView(R.layout.content_original_quotes);
